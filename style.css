@@ -1,0 +1,26 @@
+body {
+    background: #ece9e6;    
+    min-height: 100vh;
+}
+
+img {
+    max-width: 45%;
+    border-radius: 10px;
+    margin-right: 3%;
+    float: left; 
+}
+ul{
+    list-style: none;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-column: 2;
+}
+
+.meal{
+    margin-left: 5%;
+    margin-right: 5%;
+    /* text-align: center; */
+}
+
+
+
