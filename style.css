@@ -20,14 +20,18 @@ ul{
 }
 
 .meal{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
     /* text-align: center; */
 }
 
 .Button{
-    float: right;
-    margin-right: 5%;
+    /* float: right; */
+    position: relative;
+    bottom: 2%;
+    margin-top: 4%;
+    text-align: center;
+    /* margin-right: 17%; */
     padding: 0.5% 2%;
     font-size: 20px;
     background: #d4d4d3;    
