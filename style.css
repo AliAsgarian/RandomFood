@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 body {
     background: #dbd2c8;    
     min-height: 100vh;
-    font-family: "Open Sans", sans-serif;
-}
+    font-family: 'Playfair Display', serif;}
 
 img {
     max-width: 45%;
