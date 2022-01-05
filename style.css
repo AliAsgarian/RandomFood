@@ -27,7 +27,8 @@ ul{
 
 .Button{
     float: right;
-    padding: 1% 2%;
+    margin-right: 5%;
+    padding: 0.5% 2%;
     font-size: 20px;
     background: #d4d4d3;    
     border-radius: 10px;
