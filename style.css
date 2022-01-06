@@ -39,6 +39,7 @@ ul{
     background: #d4d4d3;
     
     border-radius: 10px;
+    border-width: 0;
     outline: 0;
     cursor: pointer;
 }
