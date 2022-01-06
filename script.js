@@ -28,17 +28,17 @@ function showMealInfo(data) {
     }
 
     meal.innerHTML = `
-        <h1>${data.strMeal}</h1>
         <div>
+        <h1>${data.strMeal}</h1>
         <img src="${data.strMealThumb}" alt="${data.strMeal}" />
         <p>   ${data.strInstructions}  </p>
-        </div>
-        <div>
         <h3>Ingredients</h3>
         <ul>
             ${ ingredients.map( (ingredient) => ` <li> ${ingredient} </li> `).join("")}
         </ul>
         </div>
+        
+        
     `;
 }
 
